@@ -15,7 +15,5 @@ main()
     {
         float area = .5*(a+b)*c;
         printf("Area = %.1f\n", area);
-    }
-
-    
+    }   
 }
