@@ -11,7 +11,7 @@ main()
         float per = a+b+c;
         printf("Perimetro = %.1f\n", per);
     } else {
-        float area = .5*(a+b)*c;
+        float area = .5*(a+b)*c * 1000;
         printf("Area = %.1f\n", area);
     }
 
